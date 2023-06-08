@@ -1,0 +1,25 @@
+# ninja log v5
+0	598	7078593527697748	CMakeFiles/learn_cpp.dir/main.cpp.obj	81b9c42df0976789
+0	149	7079381679201714	build.ninja	4ac9986f998bd99a
+3	536	7078594588764744	CMakeFiles/learn_cpp.dir/syntax.cpp.obj	dc3ad546f5c289b5
+0	511	7078596750006716	CMakeFiles/syntax.dir/syntax.cpp.obj	8e848c0562126313
+512	594	7078596750806754	syntax.exe	520fbeba5521dd4b
+0	571	7079382213767741	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+571	810	7079382216144022	pointer.exe	520cf655b239bc26
+2	505	7079389530810624	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+505	592	7079389531647714	pointer.exe	520cf655b239bc26
+2	488	7079403546659918	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+2	493	7079403902889776	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+501	588	7079403903802053	pointer.exe	520cf655b239bc26
+3	530	7079405682737279	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+530	620	7079405683604535	pointer.exe	520cf655b239bc26
+2	573	7079406044060354	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+574	665	7079406044940373	pointer.exe	520cf655b239bc26
+2	539	7079407905729287	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+539	633	7079407906624797	pointer.exe	520cf655b239bc26
+2	559	7079411550468496	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+559	644	7079411551292743	pointer.exe	520cf655b239bc26
+2	496	7079413481912840	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+496	581	7079413482719534	pointer.exe	520cf655b239bc26
+2	499	7079459805928448	CMakeFiles/pointer.dir/pointer.cpp.obj	9b22a78c9cf6c79b
+499	588	7079459806768490	pointer.exe	520cf655b239bc26
