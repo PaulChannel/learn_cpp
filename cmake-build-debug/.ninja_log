@@ -1,6 +1,0 @@
-# ninja log v5
-0	598	7078593527697748	CMakeFiles/learn_cpp.dir/main.cpp.obj	81b9c42df0976789
-0	149	7078596638247854	build.ninja	4ac9986f998bd99a
-3	536	7078594588764744	CMakeFiles/learn_cpp.dir/syntax.cpp.obj	dc3ad546f5c289b5
-0	511	7078596750006716	CMakeFiles/syntax.dir/syntax.cpp.obj	8e848c0562126313
-512	594	7078596750806754	syntax.exe	520fbeba5521dd4b

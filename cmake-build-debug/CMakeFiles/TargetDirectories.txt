@@ -1,3 +1,0 @@
-F:/cpp/learn_cpp/cmake-build-debug/CMakeFiles/syntax.dir
-F:/cpp/learn_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/cpp/learn_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
