@@ -85,7 +85,7 @@ void swap(int arr[], int i, int j) {
     cout << temp << endl;
     temp = arr[i];
     arr[i] = arr[j];
-    arr[j] = temp;
+    arr[j] =  temp;
 }
 
 
