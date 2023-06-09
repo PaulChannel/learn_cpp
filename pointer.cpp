@@ -21,7 +21,7 @@ int main() {
     int a = 4.2;
     double salary, eage = 1.11;
     swap(arr, 1, 2);
-    extern int i; // 声明而不是定义
+//    extern int i; // 声明而不是定义
     int j; // 定义
     int _v1 = 1;
 //    int _V2 = 3; // 变量定义不能两个连续的下划线或下划线接大写字母开头
@@ -74,7 +74,7 @@ int main() {
 
 
     auto sz = 1.1, ba = 1.1;
-    auto  as = 1, *p = &i;
+//    auto  as = 1, *p = &i;
     return 0;
     const int saa = 1;
 
